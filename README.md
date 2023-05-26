@@ -1,4 +1,4 @@
-# Payroll and Fullfill Orders
+# Spring HATEOAS Example
 
 The project aims learning of how you can create a RESTful webservices and what is the requirements of a RESTful webservices.
 
