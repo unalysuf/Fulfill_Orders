@@ -16,9 +16,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
-import com.example.payroll.employeeModelAssembler.EmployeeModelAssembler;
-import com.example.payroll.employeeNotFoundException.EmployeeNotFoundException;
+import com.example.payroll.modelAssembler.EmployeeModelAssembler;
 import com.example.payroll.models.Employee;
+import com.example.payroll.notFoundException.EmployeeNotFoundException;
 import com.example.payroll.repositories.EmployeeRepository;
 
 @RestController

@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-import com.example.payroll.employeeNotFoundException.EmployeeNotFoundException;
+import com.example.payroll.notFoundException.EmployeeNotFoundException;
 
 @ControllerAdvice
 public class EmployeeNotFoundAdvice {
