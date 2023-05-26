@@ -1,4 +1,4 @@
-# Spring HATEOAS Example
+# spring-boot-payroll-example
 
 The project aims learning of how you can create a RESTful webservices and what is the requirements of a RESTful webservices.
 
